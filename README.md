@@ -37,6 +37,7 @@ scenes new component "A card with a title and a description, with user avatar"
 | `avatars`  |             |         | [Avatars](https://scenes.grida.co/c/avatars)   |
 | `progress` |             |         | [Progress](https://scenes.grida.co/c/progress) |
 | `skeleton` |             |         | [Skeleton](https://scenes.grida.co/c/skeleton) |
+| `layouts` |             |         | [Skeleton](https://scenes.grida.co/c/layouts) |
 
 [View Full Catalogue](https://scenes.grida.co/c)
 
