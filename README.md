@@ -51,3 +51,8 @@ scenes new component "A card with a title and a description, with user avatar"
 **Official ports for other platforms**
 
 - [Grida Flutter Support - `scene.dart`](https://github.com/gridaco/flutter)
+
+
+## Start from our [Statup First Aid Kit](https://github.com/gridaco/kits)
+
+We've made a collections of starter kits. Take a look! [grida.co/kits](https://grida.co/kits)
