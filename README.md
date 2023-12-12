@@ -25,4 +25,4 @@ $ design new card in Grida Scenes https://scenes.grida.co/xxxx
 
 ## Official ports for other platforms
 
-- [Grida Flutter Support - `scene.dart`](https://github.com/gridaco/scene.dart)
+- [Grida Flutter Support - `scene.dart`](https://github.com/gridaco/flutter)
