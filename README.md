@@ -21,8 +21,33 @@ scenes new
 scenes new card
 $ design new card in Grida Scenes https://scenes.grida.co/xxxx
 
+# using with prompt
+scenes new component "A card with a title and a description, with user avatar"
 ```
 
-## Official ports for other platforms
+<!-- table -->
+
+| Category   | Description | Example | Link                                            |
+| ---------- | ----------- | ------- | ----------------------------------------------- |
+| `cards`    |             |         | [Cards](https://scenes.grida.co/c/cards)        |
+| `charts`   |             |         | [Charts](https://scenes.grida.co/c/charts)      |
+| `buttons`  |             |         | [Buttons](https://scenes.grida.co/c/buttons)    |
+| `tables`   |             |         | [Tables](https://scenes.grida.co/c/charts)      |
+| `forms`    |             |         | [Forms](https://scenes.grida.co/c/forms)        |
+| `icons`    |             |         | [Icons](https://scenes.grida.co/c/icons)        |
+| `mocks`    |             |         | [Mock Data](https://scenes.grida.co/c/mocks)    |
+| `avatars`  |             |         | [Mock Data](https://scenes.grida.co/c/avatars)  |
+| `progress` |             |         | [Mock Data](https://scenes.grida.co/c/progress) |
+| `skeleton` |             |         | [Mock Data](https://scenes.grida.co/c/skeleton) |
+
+## Supported Frameworks
+
+- Next.js
+- Tailwind CSS
+- React
+- React Native
+- Flutter
+
+**Official ports for other platforms**
 
 - [Grida Flutter Support - `scene.dart`](https://github.com/gridaco/flutter)
