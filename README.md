@@ -27,17 +27,18 @@ scenes new component "A card with a title and a description, with user avatar"
 
 | Category       | Description | Example | Link                                               |
 | -------------- | ----------- | ------- | -------------------------------------------------- |
-| `avatars`      |             |         | [Avatars](https://scenes.grida.co/c/avatars)       |
-| `buttons`      |             |         | [Buttons](https://scenes.grida.co/c/buttons)       |
 | `cards`        |             |         | [Cards](https://scenes.grida.co/c/cards)           |
 | `charts`       |             |         | [Charts](https://scenes.grida.co/c/charts)         |
+| `buttons`      |             |         | [Buttons](https://scenes.grida.co/c/buttons)       |
 | `tables`       |             |         | [Tables](https://scenes.grida.co/c/charts)         |
 | `forms`        |             |         | [Forms](https://scenes.grida.co/c/forms)           |
 | `icons`        |             |         | [Icons](https://scenes.grida.co/c/icons)           |
 | `mocks`        |             |         | [Mock Data](https://scenes.grida.co/c/mocks)       |
+| `avatars`      |             |         | [Avatars](https://scenes.grida.co/c/avatars)       |
 | `progress`     |             |         | [Progress](https://scenes.grida.co/c/progress)     |
 | `pricingcards` |             |         | [Progress](https://scenes.grida.co/c/pricingcards) |
 | `skeleton`     |             |         | [Skeleton](https://scenes.grida.co/c/skeleton)     |
+| `layouts`      |             |         | [Skeleton](https://scenes.grida.co/c/layouts)      |
 
 [View Full Catalogue](https://scenes.grida.co/c)
 
