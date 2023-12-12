@@ -25,18 +25,19 @@ $ design new card in Grida Scenes https://scenes.grida.co/xxxx
 scenes new component "A card with a title and a description, with user avatar"
 ```
 
-| Category   | Description | Example | Link                                           |
-| ---------- | ----------- | ------- | ---------------------------------------------- |
-| `cards`    |             |         | [Cards](https://scenes.grida.co/c/cards)       |
-| `charts`   |             |         | [Charts](https://scenes.grida.co/c/charts)     |
-| `buttons`  |             |         | [Buttons](https://scenes.grida.co/c/buttons)   |
-| `tables`   |             |         | [Tables](https://scenes.grida.co/c/charts)     |
-| `forms`    |             |         | [Forms](https://scenes.grida.co/c/forms)       |
-| `icons`    |             |         | [Icons](https://scenes.grida.co/c/icons)       |
-| `mocks`    |             |         | [Mock Data](https://scenes.grida.co/c/mocks)   |
-| `avatars`  |             |         | [Avatars](https://scenes.grida.co/c/avatars)   |
-| `progress` |             |         | [Progress](https://scenes.grida.co/c/progress) |
-| `skeleton` |             |         | [Skeleton](https://scenes.grida.co/c/skeleton) |
+| Category       | Description | Example | Link                                               |
+| -------------- | ----------- | ------- | -------------------------------------------------- |
+| `avatars`      |             |         | [Avatars](https://scenes.grida.co/c/avatars)       |
+| `buttons`      |             |         | [Buttons](https://scenes.grida.co/c/buttons)       |
+| `cards`        |             |         | [Cards](https://scenes.grida.co/c/cards)           |
+| `charts`       |             |         | [Charts](https://scenes.grida.co/c/charts)         |
+| `tables`       |             |         | [Tables](https://scenes.grida.co/c/charts)         |
+| `forms`        |             |         | [Forms](https://scenes.grida.co/c/forms)           |
+| `icons`        |             |         | [Icons](https://scenes.grida.co/c/icons)           |
+| `mocks`        |             |         | [Mock Data](https://scenes.grida.co/c/mocks)       |
+| `progress`     |             |         | [Progress](https://scenes.grida.co/c/progress)     |
+| `pricingcards` |             |         | [Progress](https://scenes.grida.co/c/pricingcards) |
+| `skeleton`     |             |         | [Skeleton](https://scenes.grida.co/c/skeleton)     |
 
 [View Full Catalogue](https://scenes.grida.co/c)
 
@@ -58,7 +59,6 @@ scenes publish
 **Official ports for other platforms**
 
 - [Grida Flutter Support - `scene.dart`](https://github.com/gridaco/flutter)
-
 
 ## Start from our [Statup First Aid Kit](https://github.com/gridaco/kits)
 
